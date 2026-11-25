@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-# Project 1
+# Charities Project
 
 **Title:** [Non-Profit Programme Impact & Funding Analytics Dashboard](https://github.com/LuckyObinnaNjoku/LuckyObinnaNjoku.github.io/blob/main/portfolio_powerbi_NGO.pbix)
 
